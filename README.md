@@ -11,7 +11,7 @@ Este projeto é uma api CRUD simples com gerenciamento de banco de dados usando 
 - SQLite
 - Swagger
 
-## Front end web
+## Como executar o projeto
 Pré-requisitos: dotnet5.0
 
 ```bash
